@@ -24,8 +24,8 @@ public class TD_array {
             }
         }
           System.out.println("*******");
-          System.out.println(myarray[0][0] + "      " + myarray[0][1] + "      " + myarray[0][2]);
-          System.out.println(myarray[1][0] + "      " + myarray[1][1] + "      " + myarray[1][2]);
+          System.out.println(myarray[0][0] + "\t" + myarray[0][1] + "\t" + myarray[0][2]);
+          System.out.println(myarray[1][0] + "\t" + myarray[1][1] + "\t" + myarray[1][2]);
     }
 }
      /*
